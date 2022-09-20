@@ -1,4 +1,4 @@
-part of bson;
+part of bson2;
 
 /* class MinKey extends BsonObject {
   @override

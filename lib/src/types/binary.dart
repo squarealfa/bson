@@ -1,4 +1,4 @@
-part of bson;
+part of bson2;
 
 class BsonBinary extends BsonObject {
   static final bool useFixnum = _isIntWorkaroundNeeded();

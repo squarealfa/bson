@@ -1,7 +1,7 @@
 import 'dart:typed_data';
 
 import '../statics.dart';
-import '../../bson.dart';
+import '../../bson2.dart';
 
 const String _charMatcherPattern = r'^[a-fA-F0-9]{24}$';
 final RegExp charMatcherRegExp = RegExp(_charMatcherPattern);

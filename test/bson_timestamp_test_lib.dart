@@ -1,5 +1,5 @@
 import 'package:test/test.dart';
-import 'package:bson/bson.dart';
+import 'package:bson2/bson2.dart';
 
 void runTimestamp() {
   group('Timestamp:', () {

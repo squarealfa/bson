@@ -1,6 +1,6 @@
 import 'dart:typed_data';
 
-import '../../bson.dart';
+import '../../bson2.dart';
 
 class BsonUuid extends BsonBinary {
   BsonUuid([UuidValue? uuid])

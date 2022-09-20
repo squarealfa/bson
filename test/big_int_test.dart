@@ -1,5 +1,5 @@
 @TestOn('vm')
-import 'package:bson/src/extension/big_int_extension.dart';
+import 'package:bson2/src/extension/big_int_extension.dart';
 import 'package:test/test.dart';
 
 void main() {

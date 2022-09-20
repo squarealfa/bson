@@ -1,4 +1,4 @@
-import 'package:bson/src/extension/big_int_extension.dart';
+import 'package:bson2/src/extension/big_int_extension.dart';
 import 'package:decimal/decimal.dart';
 import 'package:rational/rational.dart';
 

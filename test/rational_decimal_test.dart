@@ -1,5 +1,5 @@
 @TestOn('vm')
-import 'package:bson/src/extension/decimal_extension.dart';
+import 'package:bson2/src/extension/decimal_extension.dart';
 import 'package:test/test.dart';
 import 'package:rational/rational.dart';
 import 'package:decimal/decimal.dart';

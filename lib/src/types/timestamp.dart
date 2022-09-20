@@ -1,4 +1,4 @@
-part of bson;
+part of bson2;
 
 class BsonTimestamp extends BsonObject {
   BsonTimestamp([Timestamp? parmTimestamp])

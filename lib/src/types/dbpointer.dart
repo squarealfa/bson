@@ -1,4 +1,4 @@
-part of bson;
+part of bson2;
 
 class DBPointer extends BsonObject {
   DBPointer(this.collection, ObjectId id)

@@ -1,6 +1,6 @@
 // ignore_for_file: no_leading_underscores_for_local_identifiers
 
-import 'package:bson/src/statics.dart';
+import 'package:bson2/src/statics.dart';
 
 class Timestamp {
   Timestamp([int? _seconds, int? _increment])

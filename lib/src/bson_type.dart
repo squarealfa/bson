@@ -1,4 +1,4 @@
-part of bson;
+part of bson2;
 // ignore_for_file: constant_identifier_names
 
 /// Number BSON Type

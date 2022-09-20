@@ -1,4 +1,4 @@
-part of bson;
+part of bson2;
 
 class BsonObjectId extends BsonObject {
   BsonObjectId(ObjectId parmId) : id = createBsonBinaryFromObjectId(parmId);

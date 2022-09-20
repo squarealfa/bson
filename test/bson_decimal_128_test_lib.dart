@@ -1,6 +1,6 @@
 import 'package:decimal/decimal.dart';
 import 'package:test/test.dart';
-import 'package:bson/bson.dart';
+import 'package:bson2/bson2.dart';
 
 Decimal ten = Decimal.fromInt(10);
 

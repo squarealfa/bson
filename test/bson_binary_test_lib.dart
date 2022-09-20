@@ -1,4 +1,4 @@
-import 'package:bson/bson.dart';
+import 'package:bson2/bson2.dart';
 import 'package:test/test.dart';
 
 void runBinary() {

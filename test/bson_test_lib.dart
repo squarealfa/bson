@@ -1,8 +1,8 @@
-import 'package:bson/src/types/uuid.dart';
+import 'package:bson2/src/types/uuid.dart';
 import 'package:decimal/decimal.dart';
 import 'package:test/test.dart';
 import 'dart:typed_data';
-import 'package:bson/bson.dart';
+import 'package:bson2/bson2.dart';
 import 'dart:convert';
 
 import 'bson_binary_test_lib.dart';

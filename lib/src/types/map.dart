@@ -1,4 +1,4 @@
-part of bson;
+part of bson2;
 
 class BsonMap extends BsonObject {
   BsonMap(this.data);
