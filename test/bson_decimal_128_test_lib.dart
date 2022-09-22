@@ -1,4 +1,4 @@
-import 'package:decimal/decimal.dart';
+import 'package:decimal2/decimal2.dart';
 import 'package:test/test.dart';
 import 'package:bson2/bson2.dart';
 

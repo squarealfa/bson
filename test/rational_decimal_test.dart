@@ -2,7 +2,7 @@
 import 'package:bson2/src/extension/decimal_extension.dart';
 import 'package:test/test.dart';
 import 'package:rational/rational.dart';
-import 'package:decimal/decimal.dart';
+import 'package:decimal2/decimal2.dart';
 
 void main() {
   void innerTests(Rational r, Decimal d, int expectedScale,

@@ -1,5 +1,5 @@
 import 'package:bson2/src/types/uuid.dart';
-import 'package:decimal/decimal.dart';
+import 'package:decimal2/decimal2.dart';
 import 'package:test/test.dart';
 import 'dart:typed_data';
 import 'package:bson2/bson2.dart';

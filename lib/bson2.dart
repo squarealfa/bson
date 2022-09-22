@@ -3,7 +3,7 @@ library bson2;
 import 'dart:convert';
 import 'dart:typed_data';
 
-import 'package:decimal/decimal.dart';
+import 'package:decimal2/decimal2.dart';
 import 'package:fixnum/fixnum.dart';
 import 'package:uuid/uuid.dart';
 

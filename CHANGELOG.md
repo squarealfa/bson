@@ -1,5 +1,9 @@
 # Changelog
 
+## 3.0.0
+
+- Moving temporarily from decimal to decimal2 as a workaround for the breaking change between decimal 2.2.0 and 2.3.0
+
 ## 2.0.1
 
 - Lint fix

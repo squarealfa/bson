@@ -1,5 +1,5 @@
 import 'package:bson2/src/extension/big_int_extension.dart';
-import 'package:decimal/decimal.dart';
+import 'package:decimal2/decimal2.dart';
 import 'package:rational/rational.dart';
 
 extension DecimalExt on Decimal {

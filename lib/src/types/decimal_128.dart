@@ -1,5 +1,5 @@
 import 'package:bson2/src/extension/decimal_extension.dart';
-import 'package:decimal/decimal.dart';
+import 'package:decimal2/decimal2.dart';
 import 'package:fixnum/fixnum.dart';
 
 import '../../bson2.dart';
